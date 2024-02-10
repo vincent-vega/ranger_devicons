@@ -258,6 +258,7 @@ dir_node_exact_matches = {
     'Dotfiles'                         : '',
     'dotfiles'                         : '',
     'Dropbox'                          : '',
+    'IdeaProjects'                     : '',
     'Music'                            : '',
     'Pictures'                         : '',
     'Public'                           : '',
